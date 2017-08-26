@@ -1,0 +1,26 @@
+h1
+{
+  font-style:Georgia,serif;
+  color:Crimson;
+  text-align:center;
+  background-color:rgba(192,192,192,0.4);
+  font-size:45px
+}
+#a
+{
+background-color:lightskyblue;;
+font-size:25px;
+font-family:"courier new", serif;
+text-align:center;
+color:midnightblue;
+
+}
+#b
+{
+background-color:lightsteelblue;
+font-size:25px;
+font-family:"courier new", serif;
+text-align:center;
+color:midnightblue;
+
+}
